@@ -39,11 +39,11 @@ body {
 .carousel-caption {
     color: white;
     text-align: left;
-    padding: 15rem 0rem;
-    /* border: 2px solid black; */
-    align-items: left;
+    border: 2px solid black;
+    /* align-items: left; */
     margin-right: 20em;
     display: block;
+    margin-bottom: 13rem;
 }
 .carousel-caption h2{
     margin-bottom: 10px;
@@ -73,8 +73,10 @@ body {
     color: #FF0AFF;
 }
 .join-us{
-    margin: 20px 70px;
+    margin: 20px 90px;
     padding: 20px;
     border:1px solid black;
     text-align: center;
+    border-radius: 30px;
+    background-color: rgba(138, 43, 226, 0.3);
 }
